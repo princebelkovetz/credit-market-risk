@@ -1,0 +1,16 @@
+[project]
+name = "diploma"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "arch>=8.0.0",
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "pandas-datareader>=0.10.0",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+]
